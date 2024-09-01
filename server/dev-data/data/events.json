@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "64f8e9f1eae4fdf56e6b5c01",
+    "title": "Tech Meetup",
+    "date": "2024-06-10",
+    "location": "Delhi",
+    "description": "A meetup for tech professionals to network and discuss emerging technologies.",
+    "photo": "http://dummyimage.com/174x100.png/ff4444/ffffff",
+    "category": "Networking",
+    "user_id": "64f8c8b1eae4fdf56e6b5b01"
+  },
+  {
+    "_id": "64f8e9f1eae4fdf56e6b5c02",
+    "title": "AI Conference",
+    "date": "2024-07-15",
+    "location": "Bangalore",
+    "description": "Explore the latest advancements in artificial intelligence and machine learning.",
+    "photo": "http://dummyimage.com/174x100.png/ff5555/ffffff",
+    "category": "Conference",
+    "user_id": "64f8c8b1eae4fdf56e6b5b01"
+  },
+  {
+    "_id": "64f8e9f1eae4fdf56e6b5c03",
+    "title": "React Summit",
+    "date": "2024-08-05",
+    "location": "Hyderabad",
+    "description": "A conference focused on React.js and its ecosystem.",
+    "photo": "http://dummyimage.com/174x100.png/ff6666/ffffff",
+    "category": "Conference",
+    "user_id": "64f8c8b1eae4fdf56e6b5b01"
+  },
+  {
+    "_id": "64f8e9f1eae4fdf56e6b5c04",
+    "title": "Cybersecurity Workshop",
+    "date": "2024-09-20",
+    "location": "Chennai",
+    "description": "A hands-on workshop on the latest cybersecurity practices.",
+    "photo": "http://dummyimage.com/174x100.png/ff7777/ffffff",
+    "category": "Workshop",
+    "user_id": "64f8c8b1eae4fdf56e6b5b02"
+  },
+  {
+    "_id": "64f8e9f1eae4fdf56e6b5c05",
+    "title": "Blockchain Summit",
+    "date": "2024-10-15",
+    "location": "Mumbai",
+    "description": "Discuss the future of blockchain technology and its applications.",
+    "photo": "http://dummyimage.com/174x100.png/ff8888/ffffff",
+    "category": "Conference",
+    "user_id": "64f8c8b1eae4fdf56e6b5b02"
+  },
+  {
+    "_id": "64f8e9f1eae4fdf56e6b5c06",
+    "title": "JavaScript Workshop",
+    "date": "2024-11-05",
+    "location": "Pune",
+    "description": "A workshop to improve your JavaScript skills.",
+    "photo": "http://dummyimage.com/174x100.png/ff9999/ffffff",
+    "category": "Workshop",
+    "user_id": "64f8c8b1eae4fdf56e6b5b02"
+  },
+  {
+    "_id": "64f8e9f1eae4fdf56e6b5c07",
+    "title": "Python Conference",
+    "date": "2024-12-01",
+    "location": "Kolkata",
+    "description": "A conference on Python programming and its various applications.",
+    "photo": "http://dummyimage.com/174x100.png/ffaa00/ffffff",
+    "category": "Conference",
+    "user_id": "64f8c8b1eae4fdf56e6b5b03"
+  },
+  {
+    "_id": "64f8e9f1eae4fdf56e6b5c08",
+    "title": "DevOps Meetup",
+    "date": "2024-12-15",
+    "location": "Jaipur",
+    "description": "A meetup to discuss best practices in DevOps.",
+    "photo": "http://dummyimage.com/174x100.png/ffbb00/ffffff",
+    "category": "Networking",
+    "user_id": "64f8c8b1eae4fdf56e6b5b03"
+  },
+  {
+    "_id": "64f8e9f1eae4fdf56e6b5c09",
+    "title": "Cloud Computing Workshop",
+    "date": "2024-12-20",
+    "location": "Lucknow",
+    "description": "A workshop on cloud computing and its services.",
+    "photo": "http://dummyimage.com/174x100.png/ffcc00/ffffff",
+    "category": "Workshop",
+    "user_id": "64f8c8b1eae4fdf56e6b5b03"
+  },
+  {
+    "_id": "64f8e9f1eae4fdf56e6b5c0a",
+    "title": "Data Science Summit",
+    "date": "2024-01-10",
+    "location": "Delhi",
+    "description": "A summit on data science and its applications.",
+    "photo": "http://dummyimage.com/174x100.png/ffdd00/ffffff",
+    "category": "Conference",
+    "user_id": "64f8c8b1eae4fdf56e6b5b04"
+  },
+  {
+    "_id": "64f8e9f1eae4fdf56e6b5c0b",
+    "title": "Machine Learning Meetup",
+    "date": "2024-02-15",
+    "location": "Bangalore",
+    "description": "A meetup for enthusiasts of machine learning.",
+    "photo": "http://dummyimage.com/174x100.png/ffee00/ffffff",
+    "category": "Networking",
+    "user_id": "64f8c8b1eae4fdf56e6b5b04"
+  },
+  {
+    "_id": "64f8e9f1eae4fdf56e6b5c0c",
+    "title": "Angular Workshop",
+    "date": "2024-03-05",
+    "location": "Hyderabad",
+    "description": "A workshop focused on Angular and its applications.",
+    "photo": "http://dummyimage.com/174x100.png/ffff00/ffffff",
+    "category": "Workshop",
+    "user_id": "64f8c8b1eae4fdf56e6b5b04"
+  },
+  {
+    "_id": "64f8e9f1eae4fdf56e6b5c0d",
+    "title": "Web Development Conference",
+    "date": "2024-03-25",
+    "location": "Chennai",
+    "description": "A conference on modern web development practices.",
+    "photo": "http://dummyimage.com/174x100.png/ff1234/ffffff",
+    "category": "Conference",
+    "user_id": "64f8c8b1eae4fdf56e6b5b05"
+  },
+  {
+    "_id": "64f8e9f1eae4fdf56e6b5c0e",
+    "title": "Tech Innovation Summit",
+    "date": "2024-04-10",
+    "location": "Mumbai",
+    "description": "A summit on technological innovations and future trends.",
+    "photo": "http://dummyimage.com/174x100.png/ff5678/ffffff",
+    "category": "Conference",
+    "user_id": "64f8c8b1eae4fdf56e6b5b05"
+  },
+  {
+    "_id": "64f8e9f1eae4fdf56e6b5c0f",
+    "title": "Frontend Masters Workshop",
+    "date": "2024-05-05",
+    "location": "Pune",
+    "description": "A workshop to master frontend technologies.",
+    "photo": "http://dummyimage.com/174x100.png/ff1234/ffffff",
+    "category": "Workshop",
+    "user_id": "64f8c8b1eae4fdf56e6b5b05"
+  }
+]

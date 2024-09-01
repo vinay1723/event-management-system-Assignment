@@ -1,0 +1,7 @@
+.home-page {
+  background-image: linear-gradient(
+      rgba(36, 42, 46, 0.1),
+      rgba(36, 42, 46, 0.9)
+    ),
+    url("https://i.postimg.cc/tCBkWGRd/andy-wang-2-H1-Oekuzp-Y-unsplash.jpg");
+}
